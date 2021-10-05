@@ -1,0 +1,1 @@
+# faça um programa que leia um numero inteiro e mostre seu sucessor e antecessor

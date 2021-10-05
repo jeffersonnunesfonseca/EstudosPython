@@ -1,0 +1,1 @@
+# desenvolva um programa que um preco e mostre seu novo preço com 5% de desconto
